@@ -37,4 +37,4 @@ sysinfo.txt
 
 
 # For testing whether git lfs is needed in IP6.
-IgnoredAssets/*
+Assets/IgnoredAssets/*
